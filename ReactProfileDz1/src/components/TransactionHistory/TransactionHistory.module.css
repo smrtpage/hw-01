@@ -1,0 +1,25 @@
+.table {
+  font-family: sans-serif;
+  margin-left: 40px;
+  border: 1px solid #9a9a9a;
+  border-radius: 5px;
+  border-collapse: collapse;
+}
+
+.table thead {
+  background-color: aqua;
+}
+
+.table th {
+  text-align: center;
+  padding: 5px;
+  color: #fff;
+  font-size: 18px;
+}
+
+.table td {
+  width: 300px;
+  text-align: center;
+  padding: 10px 10px;
+  border: 1px solid #9a9a9a;
+}
